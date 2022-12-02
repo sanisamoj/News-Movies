@@ -1,6 +1,6 @@
 <h1 align = 'center'>News-Movies<h1/>
 <p align = 'center'>
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+  <img src = 'https://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge'/>
 <p/>
 
 Este é um projeto criado enquanto estudo react, uma aplicação simples.
@@ -10,5 +10,5 @@ A aplicação consome alguns dados, e o código fica responsável em renderizar 
 Neste projeto , aprendi a lidar com rotas, requisições, componentes e algumas bibliotecas.
 
 <p align = 'center'>
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/69211869/205332910-7d737108-429f-44b4-a105-9141c0093b94.gif)
+  <img src = 'https://user-images.githubusercontent.com/69211869/205332910-7d737108-429f-44b4-a105-9141c0093b94.gif'/>
 <p/>
